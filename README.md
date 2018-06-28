@@ -5,7 +5,7 @@ Project showing the possibility of using [Cognitive Service: Speech to Text](htt
 I have created a simple website that allows speech to be translated into text.
 [The Lumen Framework](https://lumen.laravel.com/docs/5.6) was used for the implementation of the project.
 
-![App Screen](https://kasztelan.me/wp-content/uploads/2018/06/example.png)
+![example](https://user-images.githubusercontent.com/4050097/42022154-bd38dbee-7abc-11e8-974a-6fbdce48c18a.png)
 
 # Stages of the project
 
@@ -30,7 +30,7 @@ composer install
 
 # How it works
 
-![How it works](https://kasztelan.me/wp-content/uploads/2018/06/Process.png)
+![process](https://user-images.githubusercontent.com/4050097/42022132-ae22d72c-7abc-11e8-82f8-dc0c98cc9e14.png)
 
 # External libraries
 
